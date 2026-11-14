@@ -1,0 +1,9 @@
+D:\Coding\ongeki-discordRP\bin\Release\OngekiDiscordRP.dll
+D:\Coding\ongeki-discordRP\bin\Release\OngekiDiscordRP.pdb
+D:\Coding\ongeki-discordRP\obj\Release\OngekiDiscordRP.csproj.AssemblyReference.cache
+D:\Coding\ongeki-discordRP\obj\Release\OngekiDiscordRP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\ongeki-discordRP\obj\Release\OngekiDiscordRP.AssemblyInfoInputs.cache
+D:\Coding\ongeki-discordRP\obj\Release\OngekiDiscordRP.AssemblyInfo.cs
+D:\Coding\ongeki-discordRP\obj\Release\OngekiDiscordRP.csproj.CoreCompileInputs.cache
+D:\Coding\ongeki-discordRP\obj\Release\OngekiDiscordRP.dll
+D:\Coding\ongeki-discordRP\obj\Release\OngekiDiscordRP.pdb
